@@ -21,7 +21,7 @@ export default function Home() {
       />
       <div className='flex flex-col absolute inset-0 flex items-center justify-center z-10'>
         <p className='text-white text-4xl font-bold'>Had Me At Harmon</p>
-        <p className='text-xl'>March/April 2024</p>
+        <p className='text-xl'>March/April 2025</p>
       </div>
     </div>
   )
